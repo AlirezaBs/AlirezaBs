@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezabs&label=Profile%20views&color=0e75b6&style=flat" alt="alirezabs" /> </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/AlirezaBs/AlirezaBs/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alireza-babazadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alireza-babazadeh" height="30" width="40" /></a>
