@@ -10,4 +10,6 @@
 <a href="https://instagram.com/a.babazadehh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.babazadehh" height="30" width="40" /></a>
 </p>
 
-[![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaBs&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center>
+[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBs&layout=compac&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
