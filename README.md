@@ -9,5 +9,3 @@
 <a href="https://www.linkedin.com/in/alireza-babazadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alireza-babazadeh" height="30" width="40" /></a>
 <a href="https://instagram.com/a.babazadehh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.babazadehh" height="30" width="40" /></a>
 </p>
-
-[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaBs&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
