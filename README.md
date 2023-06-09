@@ -18,8 +18,7 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<h4 align="center">Connect me</h4>
-
+<h3 align="center">Connect me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alireza-babazadeh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aalirezabs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
