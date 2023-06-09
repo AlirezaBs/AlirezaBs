@@ -24,7 +24,7 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-### 🤝🏻 &nbsp;Connect with Me
+<h4 align="center">Connect me</h4>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alireza-babazadeh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
